@@ -27,7 +27,8 @@ the user will automatically know how many items are in the list without having t
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthroughRestartAPPtoShowPersistence.gif' title='Video walkthroughRestartAPPtoShowPersistence' width='' alt='Video walkthroughRestartAPPtoShowPersistence' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
